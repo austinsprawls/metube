@@ -40,3 +40,4 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 
 gem 'rspec-rails'
 gem 'pry-debugger'
+gem 'hirb'
